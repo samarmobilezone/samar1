@@ -14,7 +14,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/BlackTiger-Error404/without.git
+git clone https://github.com/samarmobilezone/samar1
 
 cd without
 
